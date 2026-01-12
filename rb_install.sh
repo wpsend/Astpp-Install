@@ -28,5 +28,9 @@ echo "[5/5] Starting ASTPP installation..."
 ./install.sh
 
 echo "======================================"
-echo " ASTPP Installation Script Finished "
+echo "   ASTPP Installation Completed"
+echo "   Powered by HostServerBD"
+echo "   Website: https://hostserverbd.com"
+echo "   Support: support@hostserverbd.com"
 echo "======================================"
+
