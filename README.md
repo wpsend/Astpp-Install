@@ -27,7 +27,7 @@ Root access required
 Run the following command as root:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/rb_install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/firozsarkar/Astpp-Install/refs/heads/main/rb_install.sh) -y
 ```
 
 This single command will:
